@@ -1,4 +1,5 @@
 const { addBookHandler } = require("./handler");
+const { bookSchema } = require("./schema");
 
 const routes = [
   {
